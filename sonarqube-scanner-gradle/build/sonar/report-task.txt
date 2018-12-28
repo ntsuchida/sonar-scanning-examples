@@ -1,0 +1,6 @@
+projectKey=test1
+serverUrl=http://ec2-52-69-142-41.ap-northeast-1.compute.amazonaws.com
+serverVersion=7.3.0.15553
+dashboardUrl=http://ec2-52-69-142-41.ap-northeast-1.compute.amazonaws.com/dashboard?id=test1
+ceTaskId=AWfzt1Rm_qwyxy3r5c0g
+ceTaskUrl=http://ec2-52-69-142-41.ap-northeast-1.compute.amazonaws.com/api/ce/task?id=AWfzt1Rm_qwyxy3r5c0g
